@@ -1,1 +1,2 @@
-# product_system_qt
+＃product_system_qt
+使用QT实现的简单的关于动物d产生式系统
